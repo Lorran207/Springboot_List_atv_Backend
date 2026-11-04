@@ -2,6 +2,8 @@
 
 Aplicação web CRUD de produtos desenvolvida com Spring Boot, Spring Data JPA, DTOs (Java Records) e Thymeleaf com Bootstrap 5.
 
+- **Deploy no Render:** https://springboot-list-atv-backend.onrender.com/products
+
 ## Requisitos
 
 - Java 17+
